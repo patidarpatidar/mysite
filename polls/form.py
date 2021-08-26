@@ -25,3 +25,7 @@ class LoginForm(forms.ModelForm):
 		 }
 
 print('hello')
+
+
+
+print("hello python")
