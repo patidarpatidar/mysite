@@ -25,3 +25,4 @@ class LoginForm(forms.ModelForm):
 		 }
 
 print('hello')
+fbdshhfhdhwnjnasjf	wj
