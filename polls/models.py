@@ -29,4 +29,4 @@ class Choice(models.Model):
 	def __str__(self):
 		return self.choice_text
 
-print("first modified for git ")
+print("i ama modified again this file ")
