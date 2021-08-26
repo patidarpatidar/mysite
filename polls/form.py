@@ -23,3 +23,5 @@ class LoginForm(forms.ModelForm):
 		 'username' : forms.TextInput(attrs={'class':'form-control'}),
 		 'password' : forms.PasswordInput(attrs={'class':'form-control'})
 		 }
+
+print('hello')
