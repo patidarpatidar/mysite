@@ -25,4 +25,11 @@ class LoginForm(forms.ModelForm):
 		 }
 
 print('hello')
+<<<<<<< HEAD
 fbdshhfhdhwnjnasjf	wj
+=======
+
+
+
+print("hello python")
+>>>>>>> iss53
