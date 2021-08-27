@@ -24,3 +24,4 @@ class LoginForm(forms.ModelForm):
 		 'password' : forms.PasswordInput(attrs={'class':'form-control'})
 		 }
 print("i csome changed from hotfix branch")
+print("i changed again thriugh hotfix branch for testing")
