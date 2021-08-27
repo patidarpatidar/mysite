@@ -30,3 +30,4 @@ class Choice(models.Model):
 		return self.choice_text
 
 print("first modified for git ")
+print("i changed throuh hotfix branch in this code")
