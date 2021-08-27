@@ -29,4 +29,9 @@ class Choice(models.Model):
 	def __str__(self):
 		return self.choice_text
 
+<<<<<<< HEAD
 print("i ama modified again this file ")
+=======
+print("first modified for git ")
+print("i changed throuh hotfix branch in this code")
+>>>>>>> hotfix
